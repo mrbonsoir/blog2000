@@ -3,7 +3,7 @@ layout: post
 title: "First Official Run Races"
 date: 2012-10-14 09:33:33 +0100
 author: mrbonsoir
-categories: run race 
+categories: run race
 ---
 
 As far as I remember, the first official race I registered and took part was somewhere in the mid 90s. At the time in Paris, deciding with a friend to join another friend for a 5k cross country race.
