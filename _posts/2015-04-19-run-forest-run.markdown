@@ -38,6 +38,6 @@ Part of my training for a first marathon in Septembre, I hope I can hold the sam
 
 Using [folium][folium-link] I managed to overlay the gps run traces on the top of a map, and you can interactively zoom in and out.
 
-<iframe src='/data/mapBerlinBER1.html' height="600px" width="100%" style="border:none;"></iframe>
+<iframe src='/data/mapBerlinBER1/index.html' height="600px" width="100%" style="border:none;"></iframe>
 
 [folium-link]:[https://python-visualization.github.io/folium/latest/]
