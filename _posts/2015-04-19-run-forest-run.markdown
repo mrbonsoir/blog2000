@@ -39,9 +39,7 @@ Part of my training for a first marathon in Septembre, I hope I can hold the sam
 <iframe src="/data/mapBerlinBER1.html" height="600px" width="100%" style="border:none;"></iframe>
 
 
-
-
-[comment]:# Half-marathon on the non yet open Berlin airport BER
+[comment]:#Half-marathon on the non yet open Berlin airport BER
 
 [comment]:**10:33am** wake up with the feeling maybe you drunk one or two beers too much yesterday evening, this despite the good evening. Without a good evening the morning would have been terrible. It was a classic international Friday: meet the spotters from Berlin plus the spotters bosses from Amsterdam plus a visiting spotter from Vilnius and later re-meeting for the first time in 14 years a fellow from [Ecole Polytechnique de Montréal][polyMTL-link]. All and all a blast :-)
 
